@@ -7,19 +7,19 @@ I enjoy turning real-world problems into usable, reliable software — especiall
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-- 🌐 Interactive, production-ready web apps focused on UX, accessibility, and performance  
-- ⚙️ Scalable backend systems and APIs using Python, Django, and Flask  
-- 📱 Cross-platform applications and automation tools  
-- 🤖 AI-powered systems using LLMs, RAG, and intelligent workflows  
-- 🧠 Problem-solving tools that simplify real-life challenges (student life, networking, productivity)
+- Interactive, production-ready web apps focused on UX, accessibility, and performance  
+- Scalable backend systems and APIs using Python, Django, and Flask  
+- Cross-platform applications and automation tools  
+- AI-powered systems using LLMs, RAG, and intelligent workflows  
+- Problem-solving tools that simplify real-life challenges (student life, networking, productivity)
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
-### 🏠 Hostel Room Swap Platform
+### Hostel Room Swap Platform
 A smart platform that allows students to **swap hostel rooms easily** based on preferences, availability, and mutual matching.
 
 **Key Features:**
@@ -29,7 +29,7 @@ A smart platform that allows students to **swap hostel rooms easily** based on p
 
 ---
 
-### 📶 WiFi Router Optimizer
+### WiFi Router Optimizer
 A networking tool that helps optimize **WiFi performance and coverage** using intelligent analysis.
 
 **Key Features:**
@@ -39,7 +39,7 @@ A networking tool that helps optimize **WiFi performance and coverage** using in
 
 ---
 
-### 🧠 Memory AI Assistant
+### Memory AI Assistant
 An AI-powered assistant that helps users **store, retrieve, and interact with personal knowledge**.
 
 **Key Features:**
@@ -49,39 +49,39 @@ An AI-powered assistant that helps users **store, retrieve, and interact with pe
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👩‍💻 Languages
+###  Languages
 Python • C++ • Java • JavaScript • SQL  
 
-### 🌐 Web Technologies
+###  Web Technologies
 HTML • Tailwind CSS • React • Node.js • Flask • Django • REST APIs  
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 Docker • Kubernetes • AWS • Git • CI/CD  
 
-### 🤖 AI & Tools
+### AI & Tools
 Machine Learning • RAG • Prompt Engineering • LLM API Integration  
 n8n • Cursor  
 
-### 🗄️ Databases
+###  Databases
 PostgreSQL • MongoDB  
 
-### ⚙️ Software Development
+### Software Development
 Data Structures & Algorithms • Agile • SDLC  
 
 ---
 
-## 🧩 How I Work
+## How I Work
 
-- 🚀 **Product-first mindset** — focus on solving real problems  
-- 🔁 **Iterative development** — build fast, improve continuously  
-- 🧱 **Maintainable code** — clean structure, scalable design  
-- ⚡ **Performance-aware** — optimize where it truly matters  
+- **Product-first mindset** — focus on solving real problems  
+- **Iterative development** — build fast, improve continuously  
+- **Maintainable code** — clean structure, scalable design  
+- **Performance-aware** — optimize where it truly matters  
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Advanced AI agents and automation workflows  
 - Real-time data systems and optimization  
@@ -90,7 +90,7 @@ Data Structures & Algorithms • Agile • SDLC
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm open to working on:
 - Full-stack development projects  
@@ -98,8 +98,8 @@ I'm open to working on:
 - Automation tools & intelligent systems  
 - Student-focused platforms  
 
-📫 Reach me via GitHub or connect to collaborate!
+Reach me via GitHub or connect to collaborate!
 
 ---
 
-⭐ *I build practical software that solves real problems and scales. If something interests you, feel free to explore and connect!*
+*I build practical software that solves real problems and scales. If something interests you, feel free to explore and connect!*
