@@ -50,7 +50,9 @@ Enables students to swap hostel rooms based on preferences and matching.
 ---
 
 ### [Startup Investment Analysis](https://github.com/srujana-sanaka/STARTUP_INVESTMENT_ANALYSIS)
-Analyzes startup funding trends and investor insights using data.
+ Analyzes startup funding trends and gives deep insights about investments.
+
+
 ---
 
 ##  Tech Stack
