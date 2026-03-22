@@ -1,6 +1,4 @@
 
-
-```markdown
 # Hi — I'm Lakshmi Srujana 👋
 
 I'm a pragmatic full-stack engineer who designs and ships end-to-end products — from intuitive frontends to scalable backends and intelligent AI-powered systems.
@@ -105,4 +103,3 @@ I'm open to working on:
 ---
 
 ⭐ *I build practical software that solves real problems and scales. If something interests you, feel free to explore and connect!*
-```
