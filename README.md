@@ -1,5 +1,5 @@
 
-# Hi — I'm Lakshmi Srujana 👋
+# Hi — I'm Lakshmi Srujana 
 
 I'm a pragmatic full-stack engineer who designs and ships end-to-end products — from intuitive frontends to scalable backends and intelligent AI-powered systems.
 
