@@ -17,36 +17,40 @@ I enjoy turning real-world problems into usable, reliable software — especiall
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
-### Hostel Room Swap Platform
-A smart platform that allows students to **swap hostel rooms easily** based on preferences, availability, and mutual matching.
-
-**Key Features:**
-- Match-based room exchange system  
-- User-friendly interface for student interaction  
-- Backend logic for constraint-based allocation  
+###  [Chat Application](https://github.com/srujana-sanaka/tars-chat)
+Real-time chat application with scalable backend and seamless messaging.
 
 ---
 
-### WiFi Router Optimizer
-A networking tool that helps optimize **WiFi performance and coverage** using intelligent analysis.
-
-**Key Features:**
-- Signal strength analysis  
-- Optimization suggestions  
-- Network diagnostics  
+###  [Healthcare Appointment System](https://github.com/srujana-sanaka/Healthcare)
+Platform for booking hospital appointments with efficient scheduling.
 
 ---
 
-### Memory AI Assistant
-An AI-powered assistant that helps users **store, retrieve, and interact with personal knowledge**.
+###  [Weather App](https://github.com/srujana-sanaka/Weather)
+Displays real-time weather information for any location via search.
 
-**Key Features:**
-- Context-aware memory retrieval  
-- RAG-based architecture  
-- LLM integration for intelligent responses  
+---
 
+###  [AI Memory Assistant](https://github.com/srujana-sanaka/AI_MEMORY_ASSISTANT)
+Notes app with semantic search (RAG) for intelligent information retrieval.
+
+---
+
+### [WiFi Router Placement Optimizer](https://github.com/srujana-sanaka/WiFi-router-placement-optimizer)
+Optimizes router placement to improve WiFi coverage and performance.
+
+---
+
+### [Swap My Room](https://github.com/srujana-sanaka/swap-my-room)
+Enables students to swap hostel rooms based on preferences and matching.
+
+---
+
+### [Startup Investment Analysis](https://github.com/srujana-sanaka/STARTUP_INVESTMENT_ANALYSIS)
+Analyzes startup funding trends and investor insights using data.
 ---
 
 ##  Tech Stack
